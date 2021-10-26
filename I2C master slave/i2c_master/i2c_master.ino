@@ -3,8 +3,7 @@
   i2c-master-demo.ino
   Demonstrate use of I2C bus
   Master sends character and gets reply from Slave
-  DroneBot Workshop 2019
-  https://dronebotworkshop.com
+
 */
 
 // Include Arduino Wire library for I2C
